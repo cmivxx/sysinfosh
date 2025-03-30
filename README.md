@@ -11,4 +11,4 @@ Tested on Ubuntu 22.04 and Unraid.
 
 Script output will look like this:
 
-![sysinfo.sh output]([https://hotio.dev/img/sysinfo.png](https://chrisrmiller.com/content/images/size/w1600/2025/03/sysinfo_sample-2.png))
+![sysinfo.sh output]([https://chrisrmiller.com/content/images/size/w1600/2025/03/sysinfo_sample-2.png])
